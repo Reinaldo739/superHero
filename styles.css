@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    font-size: larger; 
+}
+
+.header{
+    color: black;
+    font-size: larger; 
+}
+
+.footer{
+    color: azure;
+    font-size: larger; 
+}
+
+.card{
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    width: 20%;
+}
+
+#lista-herois{
+    display: flex;
+    flex-wrap: wrap;
+}
